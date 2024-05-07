@@ -1,0 +1,46 @@
+Welcome to the ChatBot application!
+1. Register
+2. Login
+3. Password Recovery
+4. Exit
+Select an option: 1
+Please enter your details to register:
+Username: alice
+Email: alice@example.com
+Password: mypassword
+Registration successful!
+
+Welcome to the ChatBot application!
+1. Register
+2. Login
+3. Password Recovery
+4. Exit
+Select an option: 2
+Please login with your credentials:
+Username: alice
+Password: mypassword
+Login successful!
+You: Hi
+ChatBot: Hello!
+You: What's the weather today?
+ChatBot: I'm sorry, I am not programmed to answer that question.
+You: exit
+
+Welcome to the ChatBot application!
+1. Register
+2. Login
+3. Password Recovery
+4. Exit
+Select an option: 3
+Password Recovery:
+Enter your username: alice
+Enter your email: alice@example.com
+Your password is: mypassword
+
+Welcome to the ChatBot application!
+1. Register
+2. Login
+3. Password Recovery
+4. Exit
+Select an option: 4
+Goodbye!
