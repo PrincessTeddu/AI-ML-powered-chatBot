@@ -5,9 +5,9 @@ Welcome to the ChatBot application!
 4. Exit
 Select an option: 1
 Please enter your details to register:
-Username: alice
-Email: alice@example.com
-Password: mypassword
+Username: alex
+Email: alex@example.com
+Password: myPassword
 Registration successful!
 
 Welcome to the ChatBot application!
@@ -17,8 +17,8 @@ Welcome to the ChatBot application!
 4. Exit
 Select an option: 2
 Please login with your credentials:
-Username: alice
-Password: mypassword
+Username: alex
+Password: myPassword
 Login successful!
 You: Hi
 ChatBot: Hello!
@@ -33,9 +33,9 @@ Welcome to the ChatBot application!
 4. Exit
 Select an option: 3
 Password Recovery:
-Enter your username: alice
-Enter your email: alice@example.com
-Your password is: mypassword
+Enter your username: alex
+Enter your email: alex@example.com
+Your password is: myPassword
 
 Welcome to the ChatBot application!
 1. Register
